@@ -16,4 +16,4 @@ def speak_to_grandma
   
  phrase = 'hello!'
  
-  if phrase == 
+  if phrase == ('');
