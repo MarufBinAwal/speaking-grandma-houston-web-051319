@@ -14,6 +14,6 @@
 
 def speak_to_grandma
   
- phrase = 'Hello!'
+ phrase = 'hello!'
  
   if 
