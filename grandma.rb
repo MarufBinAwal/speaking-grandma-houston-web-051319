@@ -13,5 +13,4 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma
-  puts x
-  if x== (x).downcase  
+ phrase =
